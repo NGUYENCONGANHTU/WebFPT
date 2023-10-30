@@ -8,47 +8,48 @@
 <style>
     .wrapper
     {
-        width: 1200px;
+        width: 2100px;
         margin: auto ;
     }
     .header
     {
         background: red;
         height: 100px;
-        width: 1200px;
+        width: 2100px;
     }
     .menu
     {
         background: blue;
         height: 50px;
-        width: 1200px;
+        width: 2100px;
     }
     .left
     {
         background: pink;
-        height: 400px;
-        width: 400px;
+        height: 700px;
+        width: 700px;
         float: left;
     }
     .content
     {
         background: violet;
-        height: 400px;
-        width: 400px;
+        height: 700px;
+        width: 700px;
         float: left;
     }
     .right
     {
         background: red;
-        height: 400px;
-        width: 400px;
+        height: 700px;
+        width: 700px;
         float: left;
     }
     .footer
     {
-        background: green;
-        height: 400px;
-        width: 200px;
+        background: rgb(0, 28, 128);
+        height: 200px;
+        width: 2100px;
+        float: left;
     }
 </style>
 <body>
